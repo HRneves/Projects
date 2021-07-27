@@ -3,7 +3,7 @@
 
 Currently at second semester
 
-##Objectives
+###Objectives
 
 Showing my progress on developing in C/C++ language
 
