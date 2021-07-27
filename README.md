@@ -1,6 +1,8 @@
 # University C/C++ projects
 ## Projects that I made at UAM
 
+Currently at second semester
+
 ##Objectives
 
 Showing my progress on developing in C/C++ language
