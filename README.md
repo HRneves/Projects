@@ -1,8 +1,7 @@
 # University C/C++ projects
-## Objectives
+## Projects that I made at UAM
 
-goyo
+#Objectives
 
-### USUARIO DE MYSPACE
-
-goyo
+Showing my progress on developing in C/C++ language
+I have plans to lear a lot of languages in a near future
