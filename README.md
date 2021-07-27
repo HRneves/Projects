@@ -1,7 +1,7 @@
 # University C/C++ projects
 ## Projects that I made at UAM
 
-#Objectives
+##Objectives
 
 Showing my progress on developing in C/C++ language
 
